@@ -15,6 +15,8 @@ Title
 
 ``highlighter``
 
+```highlighted```
+
 **`highlighterbold`**
 
 ```
