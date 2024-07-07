@@ -14,6 +14,9 @@ Title
 - refer [githubdocs](https://docs.github.com/en)
 
 ``highlighter``
+```highkighter2```
+** bold **
+
 
 **`highlighterbold`**
 
