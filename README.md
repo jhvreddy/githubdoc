@@ -15,12 +15,7 @@ Title
 
 `highlighter`
 
-``highlighter``
-
-```highlighter```
-
 **bold**
-
 
 **`highlighterbold`**
 
